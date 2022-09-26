@@ -31,7 +31,7 @@ I am a Software Engineering student at Western Governors University(WGU)! I'm ba
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode, read tech articles, play video games and tennis!
 
 
 ### :hammer_and_wrench: Languages and Tools :
