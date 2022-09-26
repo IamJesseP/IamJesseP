@@ -48,4 +48,5 @@ I am a Software Engineering student at Western Governors University(WGU)! I'm ba
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Hey everyone!](https://dev.to/iamjessep/hey-everyone-4kpi)
 <!-- BLOG-POST-LIST:END -->
