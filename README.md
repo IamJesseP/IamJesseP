@@ -31,7 +31,8 @@ I am a Software Engineering student at Western Governors University(WGU)! I'm ba
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on LeetCode, read tech articles, play video games and tennis!
+- :zap: In my free time, I’m an active member of ColorStack, work through the The Odin Project curriculum, practice Leetcode, and play tennis or video games!
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
