@@ -21,17 +21,11 @@
 </div>
 
 
-I am a Software Engineering student at Western Governors University(WGU)! I'm based in San Diego, California :sunny:
-- 🧰 I'm breaking into the tech field after six years in healthcare
-   <ul>
-    <li>Expecting to graduate WGU in 2023
-    <li>Also enrolled in the <a href="https://reskillamericans.org/learn-more/">Reskill Americans</a> software development bootcamp, October 2022 cohort
-   
-   </ul>
+I am a Software Engineering student at Western Governors University(WGU). I'm based in San Diego, California☀️
 
-- :seedling: Exploring Technical Content Writing.
+ 🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2023.
 
-- :zap: In my free time, I’m an active member of [ColorStack](https://www.colorstack.org/), work through the The Odin Project curriculum, practice Leetcode, and play tennis or video games!
+ ⚡ In my free time, I’m an active member of ColorStack, work through the The Odin Project curriculum, learn Cloud Computing, and play tennis or video games!
 
 
 
