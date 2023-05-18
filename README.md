@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/iamjessep/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://discordapp.com/users/paradosis#5242">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.jesseperez.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-d8d6cc?style=for-the-badge&logo=createreactapp&logoColor=black" alt="Portfolio Badge"/>
   </a>
   <a href="https://twitter.com/SWE_jesse">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -25,8 +25,7 @@ I am a Software Engineering student at Western Governors University(WGU). I'm ba
 
  🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2023.
 
- ⚡ In my free time, I’m an active member of ColorStack, work through the The Odin Project curriculum, learn Cloud Computing, and play tennis or video games!
-
+ ⚡ In my free time, I’m an active member of ColorStack, work on personal projects, learn cloud and machine learning!
 
 
 ### :hammer_and_wrench: Languages and Tools :
