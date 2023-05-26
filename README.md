@@ -23,7 +23,7 @@
 
 I am a Software Engineering student at Western Governors University(WGU). I'm based in San Diego, California☀️
 
- 🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2023.
+ 🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2024.
 
  ⚡ In my free time, I’m an active member of ColorStack, work on personal projects, learn cloud and machine learning!
 
