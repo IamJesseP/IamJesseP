@@ -23,9 +23,12 @@
 
 I am a Software Engineering student at Western Governors University(WGU). I'm based in San Diego, California☀️
 
- 🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2024.
+   🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2024. Colorstack member, SureStart machine learning participant, Headstarter fellow.
 
- ⚡ In my free time, I’m an active member of ColorStack, work on personal projects, learn cloud and machine learning!
+   ⌨️ Software Experience: HTML/CSS, Javascript, React, Nodejs, Python, C#, .NET, AWS, MongoDB, PostgresSQL
+
+   ⚡ In my free time, I’m an active member of ColorStack, work on personal projects, learn cloud, and machine learning!
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
