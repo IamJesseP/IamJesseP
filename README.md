@@ -25,7 +25,7 @@ I am a Software Engineering student at Western Governors University(WGU). I'm ba
 
    🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2024. Colorstack member, SureStart machine learning participant, Headstarter fellow.
 
-   ⌨️ Software Experience: HTML/CSS, Javascript, React, Nodejs, Python, C#, .NET, AWS, MongoDB, PostgresSQL
+   ⌨️ Software Experience: HTML/CSS, Javascript, React, Nodejs, Python, C#, .NET, AWS, Firebase, MongoDB, PostgresSQL
 
    ⚡ In my free time, I’m an active member of ColorStack, work on personal projects, learn cloud, and machine learning!
 
