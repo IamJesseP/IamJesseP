@@ -15,9 +15,6 @@
     <a href="https://www.jesseperez.dev/">
     <img src="https://img.shields.io/badge/Portfolio-d8d6cc?style=for-the-badge&logo=createreactapp&logoColor=black" alt="Portfolio Badge"/>
   </a>
-  <a href="https://twitter.com/SWE_jesse">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
