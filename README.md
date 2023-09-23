@@ -16,11 +16,16 @@
     <img src="https://img.shields.io/badge/Portfolio-d8d6cc?style=for-the-badge&logo=createreactapp&logoColor=black" alt="Portfolio Badge"/>
   </a>
 </div>
+
+
 I am a Software Engineering student at Western Governors University(WGU). I'm based in San Diego, California☀️. Seeking Software Engineer new grad roles or internships!
+
 
 🧰 Passionate about the tech field after six years in healthcare. Expecting to graduate WGU in 2024.
 
+
 ⌨️ Software Experience: HTML/CSS, Javascript, React, Nodejs, Python, C#, .NET, AWS, MongoDB, Firebase, MySQL, AI/ML, and more!
+
 
 ⚡ SureStart MIT machine learning trainee, Headstarter SWE fellow, Colorstack member, CodePath student.
 
